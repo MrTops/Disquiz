@@ -1,0 +1,24 @@
+{
+  "name": "disquiz",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTops/Disquiz.git"
+  },
+  "author": "DevTops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrTops/Disquiz/issues"
+  },
+  "homepage": "https://github.com/MrTops/Disquiz#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "randomcolor": "^0.6.2"
+  }
+}
