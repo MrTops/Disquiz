@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/MrTops/Disquiz#readme",
   "dependencies": {
+    "@keyv/mongo": "^1.1.0",
     "discord.js": "^12.5.1",
+    "keyv": "^4.0.3",
     "moment": "^2.29.1",
     "randomcolor": "^0.6.2"
   }
