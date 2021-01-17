@@ -1,0 +1,5 @@
+{
+	"DefaultPrefix": "The prefix that servers will be assigned automatically",
+	"Database": "URL to your mongodb database",
+	"Token": "Token of ur bot"
+}
